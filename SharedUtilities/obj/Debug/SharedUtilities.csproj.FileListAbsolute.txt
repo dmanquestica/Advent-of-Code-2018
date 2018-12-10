@@ -1,0 +1,14 @@
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.dll.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.dll
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.dll
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.dll.config
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.dll
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\bin\Debug\SharedUtilities.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.csprojResolveAssemblyReference.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.csproj.CoreCompileInputs.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.dll
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCodeDay1Part2\SharedUtilities\obj\Debug\SharedUtilities.pdb
