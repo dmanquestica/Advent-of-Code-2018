@@ -1,0 +1,8 @@
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\bin\Debug\Day5.exe.config
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\bin\Debug\Day5.exe
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\bin\Debug\Day5.pdb
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\obj\Debug\Day5.csprojResolveAssemblyReference.cache
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\obj\Debug\Day5.csproj.CoreCompileInputs.cache
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\obj\Debug\Day5.exe
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\obj\Debug\Day5.pdb
+C:\Users\dman\source\repos\AdventofCodeDay1Part2\Day5\bin\Debug\Day5.txt
