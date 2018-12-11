@@ -1,0 +1,12 @@
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\Day9.txt
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\Day9.exe.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\Day9.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\Day9.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\SharedUtilities.dll
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\SharedUtilities.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\bin\Debug\SharedUtilities.dll.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\obj\Debug\Day9.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\obj\Debug\Day9.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\obj\Debug\Day9.csproj.CopyComplete
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\obj\Debug\Day9.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day9\obj\Debug\Day9.pdb
