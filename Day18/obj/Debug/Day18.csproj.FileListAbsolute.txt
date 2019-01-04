@@ -1,0 +1,24 @@
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.exe.config
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.exe
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.dll
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.dll.config
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csprojResolveAssemblyReference.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csproj.CopyComplete
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.exe
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.txt
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.txt
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.exe.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\Day18.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.dll
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\bin\Debug\SharedUtilities.dll.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.csproj.CopyComplete
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day18\obj\Debug\Day18.pdb
