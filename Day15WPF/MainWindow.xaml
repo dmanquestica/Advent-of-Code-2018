@@ -1,0 +1,22 @@
+﻿<Window x:Class="Day18WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Day18WPF"
+        mc:Ignorable="d"
+        Height="525" Width="310"
+        Title="MainWindow">
+    <StackPanel>
+        <RichTextBox x:Name="txtDisplay" HorizontalAlignment="Left" 
+               VerticalAlignment="Top" Height="525" Width="300" 
+               FontFamily="Courier New" FontSize="12" Padding="20,20,20,20">
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0"/>
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+    </StackPanel>
+    
+</Window>
