@@ -1,0 +1,42 @@
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.exe.config
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.exe
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csprojResolveAssemblyReference.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\MainWindow.g.cs
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\App.g.cs
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_MarkupCompile.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_MarkupCompile.lref
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\MainWindow.baml
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.g.resources
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.Properties.Resources.resources
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.GenerateResource.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.CoreCompileInputs.cache
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.exe
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17.txt
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.dll
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.pdb
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.dll.config
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_Content.g.cs
+I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.CopyComplete
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17.txt
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.exe.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\Day17WPF.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.dll
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.pdb
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\bin\Debug\SharedUtilities.dll.config
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csprojAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\App.g.cs
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_Content.g.cs
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_MarkupCompile.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF_MarkupCompile.lref
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\MainWindow.baml
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.g.resources
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.Properties.Resources.resources
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.GenerateResource.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.csproj.CopyComplete
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.exe
+C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCode2018\Day17WPF\obj\Debug\Day17WPF.pdb
