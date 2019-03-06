@@ -16,7 +16,8 @@ namespace Day10WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        public static int SIZE = 800;
+        public static int SIZE = 750;
+        public static int OFFSET = 200;
         public WriteableBitmap Bitmap { get; set; }
 
         public MainWindow()
@@ -55,7 +56,7 @@ namespace Day10WPF
             int rangeY = maxY - minY;
             int previousRangeY = Int32.MaxValue;
 
-            while (rangeY > SIZE - 200)
+            while (!(minY + OFFSET >= 0 && maxY + OFFSET < SIZE && minX + OFFSET >= 0 && maxX + OFFSET < SIZE))
             {
                 foreach (var p in points)
                 {
@@ -63,6 +64,9 @@ namespace Day10WPF
                 }
                 minY = points.Min(p => p.Y);
                 maxY = points.Max(p => p.Y);
+
+                minX = points.Min(p => p.X);
+                maxX = points.Max(p => p.X);
 
                 rangeY = maxY - minY;
             }
@@ -79,7 +83,7 @@ namespace Day10WPF
                     previousRangeY = points.Max(p => p.Y) - points.Min(p => p.Y);
                     foreach (var p in points)
                     {
-                        Draw(p.X + 300, p.Y + 300, Colors.Blue);
+                        Draw(p.X + OFFSET, p.Y + OFFSET, Colors.Blue);
                         p.Forward();
                     }
 
@@ -92,7 +96,7 @@ namespace Day10WPF
                         foreach (var p in points)
                         {
                             p.Reverse();
-                            Draw(p.X + 300, p.Y + 300, Colors.Green);
+                            Draw(p.X + OFFSET, p.Y + OFFSET, Colors.Green);
                         }
                         timer.Stop();
                     }
