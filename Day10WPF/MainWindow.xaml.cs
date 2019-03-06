@@ -62,11 +62,11 @@ namespace Day10WPF
                 {
                     p.Forward();
                 }
-                minY = points.Min(p => p.Y);
-                maxY = points.Max(p => p.Y);
-
                 minX = points.Min(p => p.X);
                 maxX = points.Max(p => p.X);
+
+                minY = points.Min(p => p.Y);
+                maxY = points.Max(p => p.Y);
 
                 rangeY = maxY - minY;
             }
