@@ -1,7 +1,0 @@
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\bin\Debug\Day11.exe.config
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\bin\Debug\Day11.exe
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\bin\Debug\Day11.pdb
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\obj\Debug\Day11.csproj.CoreCompileInputs.cache
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\obj\Debug\Day11.exe
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\obj\Debug\Day11.pdb
-I:\OneDrive\OneDrive - Questica Inc\Visual Studio 2017\Projects\AdventofCode2018\Day11\obj\Debug\Day11.csprojResolveAssemblyReference.cache

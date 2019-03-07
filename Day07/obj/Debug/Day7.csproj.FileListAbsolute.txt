@@ -1,8 +1,0 @@
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\bin\Debug\Day7.txt
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\bin\Debug\Day7.exe.config
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\bin\Debug\Day7.exe
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\bin\Debug\Day7.pdb
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\obj\Debug\Day7.csprojAssemblyReference.cache
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\obj\Debug\Day7.exe
-C:\Users\Dennis\Documents\Visual Studio 2017\Projects\AdventofCodeDay1Part2\Day7\obj\Debug\Day7.pdb
